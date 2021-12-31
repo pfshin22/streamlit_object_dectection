@@ -17,7 +17,7 @@ from object_detection.utils import visualization_utils as viz_utils
 import streamlit as st
 
 # 내 로컬에 설치된 레이블 파일을, 인덱스와 연결시킨다.
-PATH_TO_LABELS = 'C:\\Users\\a\\Desktop\\yh_study\\TensorFlow\\models\research\\object_detection\\data\\mscoco_label_map.pbtxt'
+PATH_TO_LABELS = 'C:\\Users\\a\\Desktop\\yh_study\\TensorFlow\\models\\research\\object_detection\\data\\mscoco_complete_label_map.pbtxt'
 
 category_index = label_map_util.create_category_index_from_labelmap(PATH_TO_LABELS)
 
