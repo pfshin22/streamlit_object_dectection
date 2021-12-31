@@ -1,3 +1,12 @@
-# streamlit_object_dectection
+# streamlit으로 tensorflow object dectection을 실행하는 화면입니다.
 
-![alt text](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb9MpGC%2Fbtrn14Zb661%2FAdxJKYkSKWAi1YhFt2QZEK%2Fimg.png)
+## 홈 화면 입니다.
+![alt text](https://blog.kakaocdn.net/dn/b6eZfu/btrpusY6TfA/RFr0xkZe99yeb0mwpkyi4k/img.png)
+
+
+## 실행화면 입니다.
+![alt text](https://blog.kakaocdn.net/dn/FaWes/btrpu6BqXtP/yghVwlpe4P1VjzoVLtt6CK/img.png)
+
+
+
+
