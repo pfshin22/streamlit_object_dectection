@@ -1,5 +1,5 @@
-# streamlit 화면 정보
-tensorflow으로 object dectection을 구현
+# Streamlit 화면 정보
+Tensorflow으로 Object dectection을 구현
 
 
 ## 홈 화면 입니다.
