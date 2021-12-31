@@ -7,7 +7,7 @@ Tensorflow으로 Object dectection을 구현
 
 
 ## 실행화면 입니다.
-![alt text](https://blog.kakaocdn.net/dn/FaWes/btrpu6BqXtP/yghVwlpe4P1VjzoVLtt6CK/img.png)
+![alt text](https://blog.kakaocdn.net/dn/choiDK/btrptBIq7rw/uRL615ZsWBHiunPoLY0ol0/img.png)
 
 
 
